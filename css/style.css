@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    background: #10101B;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+}
+
+div {
+    margin: 10px 30px;
+    padding: 20px;
+    border: 3px solid #495BC3;
+    ;
+    background: #222436;
+    border-radius: 10px;
+}
